@@ -28,3 +28,4 @@ jobs:
       with:
         name: build_${{ matrix.platform }}
         path: build_${{ matrix.platform }}\bin\Release
+ 
